@@ -1,0 +1,1 @@
+[{"Fintiflushki": -4000, "Igrushki": -5000, "Gaspromchiki": -8000, "Po_beda": 5000, "Lechebnitsa": -6500, "Atlant_M": 2000, "Zemlemeri": 1050}, {"average_profit": 2683.33}]
