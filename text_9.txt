@@ -1,0 +1,7 @@
+Fintiflushki : OOO 10000 6000
+Igrushki : OAO 12000 7000
+Gaspromchiki : UP 16000 8000
+Po_beda : III 7000 12000
+Lechebnitsa : UZ 15000 8500
+Atlant_M : IP 16000 18000
+Zemlemeri : UUU 13450 14500
